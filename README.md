@@ -1,4 +1,4 @@
-# Maustats AI Analyzer
+# CSV AI Analyzer
 
 A powerful, Streamlit-based application for AI-powered data analysis. This tool leverages Large Language Models (LLMs) like Google Gemini and OpenAI to generate Python code for analyzing CSV and Excel files, complete with anti-hallucination measures and dynamic multi-file support.
 

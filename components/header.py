@@ -8,7 +8,7 @@ import streamlit as st
 
 def render_header():
     """Render the main header"""
-    st.markdown('<div class="main-header">📊 Maustats AI Analyzer - UNIVERSAL</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">📊 CSV AI Analyzer - UNIVERSAL</div>', unsafe_allow_html=True)
     st.markdown("### Multi-LLM Support | OpenAI & Google Gemini")
 
 
